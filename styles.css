@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(255, 255, 165);
+    font-family: "Gupter", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+}
+
+.image1{
+    border: 5px solid violet;
+    border-radius: 10px;
+    height: 400px;
+    border-style: dotted;
+    display:block;
+    margin:auto;
+}
+
+.link-button {
+    text-decoration: none;
+    color: black;
+    border: 1px solid gray;
+    background-color: #f2f2f2;
+    padding: 5px;
+    border-radius: 5px;
+    box-shadow: 2px 3px #888888;
+}
+
+.image2{
+    border: 5px solid salmon;
+    border-radius: 10px;
+    height: 400px;
+    border-style: dotted;
+    display:block;
+    margin:auto;
+}
